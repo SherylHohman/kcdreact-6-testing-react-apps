@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.defaultLanguage": "{activeEditorLanguage}",
+    "javascript.validate.enable": false,
+    "workbench.colorTheme": "Night Owl",
+    "workbench.iconTheme": "material-icon-theme",
+    "breadcrumbs.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "php.suggest.basic": false
+  }
+}
